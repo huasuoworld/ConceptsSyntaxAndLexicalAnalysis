@@ -83,3 +83,4 @@ Completed by: Cailiang Hua, 000931700
 a. Analyze and compare the parse trees from Steps 4 and 7 to understand the impact of syntax modifications on the parse tree structure.  
 	Seeing the image “CailiangHuaEBNFParseTree.png”  
 After comparing the parse trees from steps4 and 7, the EBNF seems more simpler than the BNF, especially on the recursion to express repetition.  
+1
